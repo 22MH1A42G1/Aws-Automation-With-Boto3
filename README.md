@@ -3,6 +3,8 @@
 #### Short Description
 Python Script for AWS Automation with Boto3. This script automates common AWS tasks such as provisioning EC2 instances, uploading files to S3, and managing RDS databases.
 
+📽️ **[Final Output Video](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/Automation(Ec2&S3&RDS).mp4)**
+
 #### Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
