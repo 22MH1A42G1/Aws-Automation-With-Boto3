@@ -3,12 +3,8 @@
 #### Short Description
 Python Script for AWS Automation with Boto3. This script automates common AWS tasks such as provisioning EC2 instances, uploading files to S3, and managing RDS databases.
 
-<video src="video.mp4" controls width="600">
+<video src="video.mp4" controls width="600"></video>
 📽️ [![Watch the video](https://www.whizlabs.com/blog/wp-content/uploads/2020/09/aws-automation-using-python-and-boto3.png)](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/Automation(Ec2&S3&RDS).mp4)
-</video>
-
-
-📽️ **[Final Output Video](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/Automation(Ec2&S3&RDS).mp4)**
 
 
 #### Table of Contents
