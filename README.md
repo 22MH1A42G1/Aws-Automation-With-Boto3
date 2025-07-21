@@ -82,9 +82,10 @@ AWS_MINI_PROJECT/
 ### 📁 2. Clone the Repository
 
 # Open terminal or Git Bash and run:
+```
 git clone https://github.com/22MH1A42G1/Aws-Automation-With-Boto3.git
 cd Aws-Automation-With-Boto3
-
+```
 ---
 
 ### 📝 3. Create the .env File
