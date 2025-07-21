@@ -69,21 +69,21 @@ AWS_MINI_PROJECT/
 
 ### ✅ 1. Prerequisites
 
-# Install Python 3.8+ and pip
-# You must have AWS CLI installed and configured with valid credentials.
-# Create an IAM user with the following permissions:
-#    - AmazonEC2FullAccess
-#    - AmazonS3FullAccess
-#    - AmazonRDSFullAccess
-# Ensure an EC2 key pair and valid AMI ID is available in your selected region.
+#### Install Python 3.8+ and pip
+#### You must have AWS CLI installed and configured with valid credentials.
+#### Create an IAM user with the following permissions:
+####    - AmazonEC2FullAccess
+####    - AmazonS3FullAccess
+####    - AmazonRDSFullAccess
+#### Ensure an EC2 key pair and valid AMI ID is available in your selected region.
 
 ---
 
 ### 📁 2. Clone the Repository
 
 # Open terminal or Git Bash and run:
-git clone https://github.com/yourusername/aws-automation-dashboard.git
-cd aws-automation-dashboard
+git clone https://github.com/22MH1A42G1/Aws-Automation-With-Boto3.git
+cd Aws-Automation-With-Boto3
 
 ---
 
