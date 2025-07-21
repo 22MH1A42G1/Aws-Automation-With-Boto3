@@ -268,33 +268,33 @@ http://<EC2-Public-IP>:8501
 ![Output RDS Created](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FAWS%20Console%2FRDS%2FOutput%20Succussfully%20Created%20RDS%20database%20in%20AWS.jpg)
 
 ### ✅ Output: RDS Modified
-![Output DB Modified](screenshots/Output\ Modified\ DB\ instance\ class\ in\ A...jpg)
+![Output DB Modified](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FAWS%20Console%2FRDS%2FOutput%20Modified%20DB%20instance%20class%20in%20AWS.jpg)
 
 ### 🧹 Output: RDS Deletion
-![Output RDS Deleted](screenshots/Output\ Succussfully\ RDS\ database\ De....jpg)
+![Output RDS Deleted](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FAWS%20Console%2FRDS%2FOutput%20RDS%20database%20Deletion%20Initiated%20AWS.jpg)
 
 ### 🔁 Output: RDS Restored
-![Output RDS Restored](screenshots/Output\ Succussfully\ RDS\ Restored\ fro....jpg)
+![Output RDS Restored](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FAWS%20Console%2FRDS%2FOutput%20Succussfully%20RDS%20Restored%20from%20SnapShot%20AWS.jpg)
 
 ---
 
 ## 🔒 IAM User Management
 
 ### 🧾 IAM User Created with Roles & Access Key
-![IAM Roles](screenshots/IAM\ \(User\ AttachRoles\ AccessKey\)\ A....jpg)
+![IAM Roles](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FAWS%20Console%2FIAM%2FIAM%20%28User%20AttachRoles%20AccessKey%29%20AWS.jpg)
 
 ### 🧼 IAM User Deleted
-![IAM Deleted](screenshots/IAM\ user\ deleted.jpg)
+![IAM Deleted](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FClearing%20Project%2FIAM%20user%20deleted.jpg)
 
 ---
 
 ## 🧭 UI Navigation Panels
 
 ### 🧠 Project Applications Panel
-![Applications Panel](screenshots/Project\ Applications\ Panel\ DashBoard.jpg)
+![Applications Panel](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FDashBoard%2FProject%20Applications%2FProject%20Applications%20Panel%20DashBoard.jpg)
 
 ### 📋 Guidelines Panel
-![Guidelines Panel](screenshots/Guidelines\ Panel\ DashBoard.jpg)
+![Guidelines Panel](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FDashBoard%2FGuideLines%2FGuidelines%20Panel%20DashBoard.jpg)
 
 ### 🧭 Navigation Panel
-![Navigation Panel](screenshots/Navigation\ Panel\ DashBoard.jpg)
+![Navigation Panel](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/NEW%2FDashBoard%2FNavigation%20Panel%20DashBoard.jpg)
