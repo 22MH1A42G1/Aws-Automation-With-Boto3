@@ -91,7 +91,7 @@ cd Aws-Automation-With-Boto3
 ### 📝 3. Create the .env File
 
 # Create a `.env` file in the root directory and add the following content:
-
+```
 AWS_ACCESS_KEY_ID=your_access_key
 AWS_SECRET_ACCESS_KEY=your_secret_key
 AWS_DEFAULT_REGION=ap-south-1
@@ -105,7 +105,7 @@ RDS_PASSWORD=Automation123
 RDS_DB_INSTANCE=mydbinstance
 RDS_SNAPSHOT_NAME=mysnapshot
 RDS_RESTORE_INSTANCE=mynewdbinstance
-
+```
 # ⚠️ Make sure to replace the placeholders with your actual AWS values.
 # 🚫 DO NOT commit this file to GitHub. Add `.env` to your `.gitignore`.
 
@@ -114,21 +114,24 @@ RDS_RESTORE_INSTANCE=mynewdbinstance
 ### 📦 4. Install Project Dependencies
 
 # You can install the required libraries using pip:
+```
 pip install -r requirements.txt
-
+```
 # Or install manually:
+```
 pip install streamlit boto3 python-dotenv
-
+```
 ---
 
 ### 🧪 5. Run the Application Locally
 
 # Use this command to start your Streamlit app:
-streamlit run app.py
+```
+python -m streamlit run app.py
 
 # Visit the following URL in your browser:
 http://localhost:8501
-
+```
 ---
 
 ### ☁️ 6. Deploy to AWS EC2 Instance
@@ -142,33 +145,33 @@ http://localhost:8501
 # - Allow inbound traffic on port 8501 (Streamlit) and port 22 (SSH)
 
 #### b. Connect to the Instance via SSH
-
+```
 # Run this from your local machine:
 ssh -i "PemKey.pem" ec2-user@<EC2-Public-IP>
-
+```
 #### c. Update the instance and install Python
-
+```
 # For Amazon Linux:
 sudo yum update -y
 sudo yum install python3 git -y
 
 # For Ubuntu:
 sudo apt update && sudo apt install python3-pip git -y
-
+```
 #### d. Upload or Clone Your Project
-
+```
 # Option 1: Clone from GitHub (requires your repo to be public or provide access):
 git clone https://github.com/yourusername/aws-automation-dashboard.git
 
 # Option 2: Use SCP to upload files:
 scp -i PemKey.pem -r ./aws-automation-dashboard ec2-user@<EC2-Public-IP>:~/project
-
+```
 #### e. Navigate to your project directory
-
+```
 cd aws-automation-dashboard
-
+```
 #### f. Recreate .env File
-
+```
 # Paste your .env content again on EC2 manually or upload it via SCP.
 
 #### g. Install Project Requirements on EC2
@@ -177,18 +180,18 @@ pip3 install -r requirements.txt
 
 # Or manually:
 pip3 install streamlit boto3 python-dotenv
-
+```
 #### h. Run the App on EC2
-
+```
 streamlit run app.py --server.port 8501 --server.enableCORS false
-
+```
 ---
 
 ### 🌐 7. Access the App in Browser
-
+```
 # Open a browser on your local machine and visit:
 http://<EC2-Public-IP>:8501
-
+```
 # 🔓 Make sure port 8501 is open in your EC2 security group settings.
 
 ---
