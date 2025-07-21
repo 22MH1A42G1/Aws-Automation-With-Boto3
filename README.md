@@ -57,7 +57,7 @@ AWS_MINI_PROJECT/
 ├── architecture_diagram.png
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
