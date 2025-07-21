@@ -57,3 +57,9 @@ AWS_MINI_PROJECT/
 ├── architecture_diagram.png
 ├── requirements.txt
 └── README.md
+
+
+---
+
+## 🖼️ Architecture Diagram
+![Architecture Diagram](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/IMG-20250713-WA0016(1).jpg)
