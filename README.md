@@ -61,7 +61,7 @@ AWS_MINI_PROJECT/
 
 ---
 
-## 🖼️ Architecture Diagram
+## 🖼️ Architecture Diagram and 📹 Demo Output video
 [![Architecture Diagram](https://github.com/22MH1A42G1/Aws-Automation-With-Boto3/blob/main/IMG-20250713-WA0016(1).jpg)](https://youtube.com/shorts/NbjEXhEuWSg?si=2nrSsd4KwWbpGvWE)
 
 ---
